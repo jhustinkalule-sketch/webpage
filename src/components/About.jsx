@@ -66,9 +66,9 @@ export default function About() {
               <div>
                 <h3 className="text-lg font-semibold text-white">My Mission</h3>
                 <p className="mt-2 leading-relaxed text-slate-400">
-                  To deliver reliable IT support while creating digital products that
-                  improve safety, preserve culture, and empower communities through
-                  thoughtful technology.
+                  To design and maintain reliable, secure, and adaptable technological
+                  infrastructures that support innovation and meet the evolving needs
+                  of businesses, communities and the world at large.
                 </p>
               </div>
             </div>

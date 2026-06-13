@@ -1,4 +1,3 @@
-import { Heart } from 'lucide-react'
 import { navLinks } from '../data/portfolio'
 
 export default function Footer() {
@@ -32,14 +31,9 @@ export default function Footer() {
           </nav>
         </div>
 
-        <div className="mt-10 flex flex-col items-center justify-between gap-4 border-t border-flame-900/50 pt-8 sm:flex-row">
+        <div className="mt-10 border-t border-flame-900/50 pt-8 text-center">
           <p className="text-sm text-slate-500">
             &copy; {year} Justin Kalule. All rights reserved.
-          </p>
-          <p className="flex items-center gap-1 text-sm text-slate-500">
-            Built with
-            <Heart size={14} className="text-flame-600 fill-flame-600" />
-            React & Tailwind CSS
           </p>
         </div>
       </div>

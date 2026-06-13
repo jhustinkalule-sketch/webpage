@@ -62,7 +62,6 @@ export const projects = [
     tech: ['React Native', 'GPS / Maps API', 'Real-time Alerts', 'Mobile'],
     gradient: 'from-flame-950 to-flame-700',
     icon: 'Shield',
-    link: 'https://www.figma.com/make/gG3MeX4QN4kP1bpSKW0xGe/SafeRoadUG-App-Development?t=9p9ZfGlWo5KrhqHr-6',
   },
   {
     id: 'tribe-culture',
@@ -79,7 +78,6 @@ export const projects = [
     tech: ['React', 'Cloud Storage', 'Multimedia', 'Community APIs'],
     gradient: 'from-black to-flame-900',
     icon: 'Users',
-    link: 'https://www.figma.com/make/YV5AoxMtgCXXrqIsagUbO1/Cultural-Preservation-App?t=9p9ZfGlWo5KrhqHr-6',
   },
 ]
 

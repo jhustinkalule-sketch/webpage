@@ -76,15 +76,13 @@ export default function Projects() {
                     ))}
                   </div>
 
-                  <a
-                    href={project.link}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="mt-8 inline-flex items-center gap-2 self-start text-sm font-semibold text-flame-500 transition-colors hover:text-flame-400"
+                  <button
+                    type="button"
+                    className="mt-8 inline-flex items-center gap-2 self-start text-sm font-semibold text-flame-500 transition-colors group-hover:text-flame-400"
                   >
-                    View Simulation
+                    Learn More
                     <ExternalLink size={16} />
-                  </a>
+                  </button>
                 </div>
               </article>
             )
